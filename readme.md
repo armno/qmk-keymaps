@@ -16,4 +16,4 @@ Create with [QMK Configurator](https://config.qmk.fm) to use with [QMK Toolbox](
 
 - [Mark 4.1: 60% ANSI with Arrows and Split Spacebar](./dz60-arrows-split-spacebar/readme.md) - Basically Mark 5 but with split spacebar and 2U left shift.
 
-![mark 4.1](m4.jpg)
+![mark 4.1](m4.1.jpg)
