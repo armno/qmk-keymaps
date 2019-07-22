@@ -11,3 +11,20 @@ Layer 0:
 Layer 1:
 
 ![layer 1](layer-1.png)
+
+---
+
+## With Arrows Keymap
+
+Another version made specially or Fooneyboy, who is addicted to arrow keys.
+
+See [weird-arrows.json](./weird-arrows.json).
+
+Layer 0:
+
+![layer 0](weird-l0.png)
+
+Layer 1:
+
+![layer 1](weird-l1.png)
+
