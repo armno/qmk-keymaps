@@ -61,7 +61,7 @@
       "KC_LALT",
       "KC_LGUI",
       "KC_SPC",
-      "KC_BSPC",
+      "KC_LGUI",
       "MO(2)",
       "MO(1)",
       "KC_MUTE"
@@ -124,7 +124,7 @@
       "KC_LALT",
       "KC_LGUI",
       "KC_SPC",
-      "KC_NO",
+      "KC_LGUI",
       "KC_TRNS",
       "KC_TRNS",
       "KC_NO"
