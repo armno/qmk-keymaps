@@ -18,8 +18,6 @@ Layer 1:
 
 Another version made specially or Fooneyboy, who is addicted to arrow keys.
 
-See [weird-arrows.json](./weird-arrows.json).
-
 Layer 0:
 
 ![layer 0](weird-l0.png)
@@ -28,3 +26,14 @@ Layer 1:
 
 ![layer 1](weird-l1.png)
 
+## for windows
+
+with arrows and function keys in layer 1
+
+Layer 0:
+
+![layer 0](windows-l0.png)
+
+Layer 1:
+
+![layer 1](windows-l1.png)
